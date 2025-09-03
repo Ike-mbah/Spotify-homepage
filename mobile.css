@@ -1,0 +1,178 @@
+@media(max-width: 500px){
+    
+
+    .nav-img{
+        width: 40px;
+        left: 2rem;
+    }
+
+    .nav-icon{
+        width: 40px;
+        margin-left: 5rem;
+    }
+
+    .search-box input{
+        max-width: 100%;
+        padding: 0.8rem 2rem;
+    }
+
+    .content{
+        padding: 1rem;
+    }
+
+    .container{
+        grid-template-columns: auto auto;
+    }
+
+    .container-1 > h3{
+        display: none;       
+    }
+
+    .container-1 > a{
+        display: none;
+    }
+    
+    .cont-icon{
+        display: none;
+    }
+
+    .list{
+        margin-top: 0rem;
+    }
+
+    .list-sec > img{
+        max-width: 100%;
+    }
+
+
+    .secc > div{
+        display: none;
+    }
+    
+
+    .container-2 a{
+        margin-bottom: 0.5rem;
+        padding: 2px 4px;
+        font-size: 0.7rem;
+        margin-left: 0rem;
+    }
+
+    .mid-container-2 h2{
+        font-size: 1.2rem;
+        margin-top: 1rem;
+    }
+
+    .mid-container-2 img{
+        max-width: 100%;
+    }
+
+    .mid-container-2 > div{
+        padding: 1rem;
+        width: 100%;
+        margin-bottom: 2rem;
+    }
+
+    .mid-container-2 h1{
+        font-size: 1.2rem;
+    }
+
+    .mid-container-2 p{
+        font-size: 0.7rem;
+    }
+
+    .list-sec > div h3{
+        font-size: 0.8rem;
+    }
+
+    .list-sec > div p{
+        font-size: 0.7rem;
+    }
+
+    .list-sec{
+        line-height: 1.2rem;
+    }
+
+    .mid-container-3{
+        margin-bottom: 2.5rem;
+    }
+
+    .mid-container-3 h2{
+        font-size: 1.2rem;
+    }
+
+    .mid-container-4, .mid-container-5{
+        margin-bottom: 2.5rem;
+    }
+
+    .mid-container-4 h2, .mid-container-5 h2{
+        font-size: 1.2rem;
+        margin-bottom: 0.8rem;
+    }
+
+    .mid-container-4 img, .mid-container-5 img{
+        width: 110px;
+    }
+
+    .mid-container-4 > div, .mid-container-5 > div{
+        overflow-x: auto;
+        scroll-behavior: smooth;
+        scrollbar-width: none;
+    }
+
+    .mid-list-4 h3, .mid-list-5 h3{
+        font-size: 0.8rem;
+        margin-bottom: 0.2rem;
+    }
+
+    .mid-list-4 p, .mid-list-5 p{
+        font-size: 0.7rem;
+    }
+
+    .mid-container-7{
+        padding-bottom: 4rem;
+    }
+
+    .footer{
+        grid-template-columns: 1fr;
+        padding-bottom: 0.7rem;
+    }
+
+    .footer-content:first-child{
+        margin-left: 0;
+    }
+
+    .footer-content{
+        margin-bottom: 1.5rem;
+    }
+
+    .footer ul li{
+        font-size: 0.85rem;
+    }
+
+    .footer-social-icons a{
+        padding: 0.8rem;
+    }
+
+    .foot{
+        margin-bottom: 1rem;
+        margin-left: 0rem;
+    }
+
+    .foot ul{
+        grid-template-columns: 1fr;
+        gap: 0.8rem;
+    }
+
+
+    .foot ul li p{
+        font-size: 0.6rem;
+    }
+
+    .container-3{
+        display: none;
+    }
+
+    .sub-container{
+        width: 100px;
+    }
+}
